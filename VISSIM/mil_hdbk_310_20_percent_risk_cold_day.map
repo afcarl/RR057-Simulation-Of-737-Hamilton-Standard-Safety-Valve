@@ -1,0 +1,12 @@
+;Mil-HDBK-310 20 percent Risk Cold Day, (Ref. JUCAS ECS RFI Feport E-001, Rev. B, 06/22/04)
+;Altitude(feet) vs. Ambient Temperature(degF)
+0.0,-20.0
+3280.0,-20.0
+6560.0,-20.0
+13100.0,-35.0
+19700.0,-54.0
+26200.0,-74.0
+32800.0,-83.0
+39400.0,-85.0
+45900.0,-99.0
+52500.0,-117.0
